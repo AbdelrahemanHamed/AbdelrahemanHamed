@@ -65,6 +65,12 @@ I leverage **AWS** and **Docker** to ensure applications are highly available an
 <br/>
 
 <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdelraheman-hamed&theme=tokyonight" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelraheman-hamed&theme=tokyonight" />
 </div>
 
