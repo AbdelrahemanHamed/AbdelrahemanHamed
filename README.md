@@ -58,27 +58,27 @@ I leverage **AWS** and **Docker** to ensure applications are highly available an
 ### 📈 GitHub Statistics & Activity
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdelraheman-hamed&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelraheman-hamed&layout=compact&theme=tokyonight&hide_border=false" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbdelrahemanHamed&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahemanHamed&layout=compact&theme=tokyonight&hide_border=false" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdelraheman-hamed&theme=tokyonight" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdelrahemanHamed&theme=tokyonight" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelraheman-hamed&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelrahemanHamed&theme=tokyonight" />
 </div>
 
 ---
 
 ### 🐍 Contribution Path
 <div align="center">
-  <img src="https://raw.githubusercontent.com/abdelraheman-hamed/abdelraheman-hamed/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/AbdelrahemanHamed/AbdelrahemanHamed/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 
 ---
@@ -91,18 +91,6 @@ I am currently focusing on:
 
 ---
 
-### 🤝 Connect with Me
-<div align="center">
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/abdelraheman-hamed">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://your-portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</div>
 
 <br/>
 
